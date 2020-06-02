@@ -1,0 +1,62 @@
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Elephant"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-28",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-28",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "Hippo"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-28",
+      "end": "2019-03-30",
+      "id": "Sleeping session"
+    }],
+    "room": "Elephant"
+  }
+]

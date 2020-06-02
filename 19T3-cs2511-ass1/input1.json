@@ -1,0 +1,10 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "Zoo", "room": "Hippo", "size": "large" }
+{ "command": "room", "venue": "Zoo", "room": "Elephant", "size": "large" }
+{ "command": "room", "venue": "Gardens", "room": "Figtree", "size": "large" }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Mattress Convention", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-27", "end": "2019-03-28", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Sleeping session", "start": "2019-03-28", "end": "2019-03-30", "small": 0, "medium": 0, "large": 1 }
+{ "command": "cancel", "id": "Sleeping Session" }
+{ "command": "list", "venue": "Zoo" }

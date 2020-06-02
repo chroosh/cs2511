@@ -1,0 +1,53 @@
+{
+  "venue": "Zoo",
+  "rooms": ["Hippo"],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Hippo"],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Hippo"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "Quad",
+  "rooms": ["G01"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Penguin"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-29",
+      "end": "2019-03-30",
+      "id": "Mattress Convention"
+    }],
+    "room": "Hippo"
+  },
+  {
+    "reservations": [],
+    "room": "Elephant"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-28",
+      "id": "Dance Party"
+    }],
+    "room": "G01"
+  },
+  {
+    "reservations": [],
+    "room": "G02"
+  }
+]
